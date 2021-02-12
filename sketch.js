@@ -22,7 +22,7 @@ function setup(){
 
 function draw(){
   //set background color 
-  background("white");
+  background("RED");
   
   
   
